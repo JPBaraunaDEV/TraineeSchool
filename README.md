@@ -1,0 +1,2 @@
+# TraineeSchool
+DDD estudo
